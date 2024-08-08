@@ -17,10 +17,10 @@ const menuItem = [
     icon: <IoCheckboxOutline size={30} />,
   },
   {
-    href: "/dashboard/rest-todos",
+    href: "/dashboard/server-todos",
     title: "Server Actions",
     icon: <IoListOutline size={30} />,
-  },
+  }
 ];
 
 export const Sidebar = () => {
